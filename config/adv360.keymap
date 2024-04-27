@@ -39,7 +39,7 @@
         compatible = "zmk,behavior-hold-tap";
         label = "AUTO_SHIFT";
         #binding-cells = <2>;
-        tapping_term_ms = <250>; // was 135
+        tapping_term_ms = <200>; // was 135 // was 250
         quick_tap_ms = <0>;
         flavor = "tap-preferred";
         bindings = <&kp>, <&kp>;
