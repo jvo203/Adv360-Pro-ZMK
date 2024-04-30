@@ -52,7 +52,7 @@
 
         default_layer {
             bindings = <
- &kp EQUAL     AS(N1)    AS(N2)    AS(N3)     AS(N4)  AS(N5)              &tog 1                                                                &mo 3  AS(N6)  AS(N7)     AS(N8)    AS(N9)    AS(N0)  AS(MINUS)
+ AS(EQUAL)     AS(N1)    AS(N2)    AS(N3)     AS(N4)  AS(N5)              &tog 1                                                                &mo 3  AS(N6)  AS(N7)     AS(N8)    AS(N9)    AS(N0)  AS(MINUS)
    &kp TAB      AS(Q)     AS(W)     AS(E)      AS(R)   AS(T)               &none                                                                &none   AS(Y)   AS(U)      AS(I)     AS(O)     AS(P)   AS(BSLH)
  &kp LCTRL      AS(A)     AS(S)     AS(D)      AS(F)   AS(G)               &none  &kp LCMD  &kp LALT                  &kp RCTRL   &kp RCMD      &none   AS(H)   AS(J)      AS(K)     AS(L)  AS(SEMI)    AS(SQT)
  &kp LSHFT      AS(Z)     AS(X)     AS(C)      AS(V)   AS(B)                                &kp HOME                  &kp PG_UP                         AS(N)   AS(M)  AS(COMMA)   AS(DOT)  AS(FSLH)  &kp RSHFT
